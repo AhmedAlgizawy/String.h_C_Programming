@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1690921846 source:e:\c program\string.h\22_strxfrm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1690586238 source:e:\c program\other\1_memchr\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1690587701 source:e:\c program\string.h\1_memchr\main.c
+	<stdio.h>
+	<stdlib.h>
+

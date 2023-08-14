@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1690417107 source:e:\c program\string.h\2_memcmp\main.c
+	<stdio.h>
+	<stdlib.h>
+
